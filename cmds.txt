@@ -24,6 +24,8 @@ git remote set-url origin "url"
 
 git rm --cached
 
+git commit -m 
+
 git branch " name of the branch "
 
 git branch 
